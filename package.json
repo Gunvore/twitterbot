@@ -1,0 +1,22 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "twitter bot for slugwar",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Gunvore/twitterbot.git"
+  },
+  "author": "Gunvore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gunvore/twitterbot/issues"
+  },
+  "homepage": "https://github.com/Gunvore/twitterbot#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
